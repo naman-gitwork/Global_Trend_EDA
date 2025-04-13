@@ -30,14 +30,6 @@ This project explores key global patterns in **life expectancy, GDP per capita, 
 - ✔️ Decade-based temporal analysis
 - ✔️ Clean, readable plots using Matplotlib and Seaborn
 
----
-
-## 📷 Sample Visualizations
-
-> Here you can add some screenshots of charts or graphs from your notebook later.
-
----
-
 ## 🛠️ Tech Stack
 
 - Python 🐍
